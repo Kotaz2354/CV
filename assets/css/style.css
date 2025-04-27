@@ -11,8 +11,6 @@ body {
 
 .main-container { 
   background-color: #ffffff; /* Fond blanc pour le CV */
-  border: 2px solid #0055a5; /* Bordure bleue */
-  border-radius: 10px; /* Coins arrondis */
   padding: 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre pour faire joli */
   width: 70%;
