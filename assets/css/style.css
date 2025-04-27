@@ -7,3 +7,8 @@ body {
   background-color: #ffffff; /* Fond blanc pour le CV */
   border: 2px solid #0055a5; /* Bordure bleue */
   border-radius: 10px; /* Coins arrondis */
+}
+h1, h2 {
+  color: #0055a5;
+  text-align: center; /* Titre centré */
+}
