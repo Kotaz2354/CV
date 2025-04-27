@@ -49,3 +49,5 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 
 ---
 </div id="main-container">
+
+*Merci d'avoir lu mon CV !*
