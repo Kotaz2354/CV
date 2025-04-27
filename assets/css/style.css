@@ -1,5 +1,4 @@
 
-}
 body {
   margin: 0;
   padding: 0;
@@ -8,7 +7,7 @@ body {
   align-items: flex-start; 
   min-height: 100vh;
   background-color:#e4b0c5  ; /* Couleur  */
-  font-family: Arial, sans-serif;
+  font-family: "Georgia", sans-serif;
 }
 
 .main-container {
@@ -17,8 +16,11 @@ body {
   border-radius: 10px;
   text-align: center; /* Centre le texte à l'intérieur */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* ombre de la bordure*/
+  width: 60%;
+  padding: 30px;
+  margin-top: 30px;
 }
-}
+
 p::first-letter { font-size:xx-larger}
   
 h1, h2, h3, p, li {
