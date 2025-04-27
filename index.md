@@ -14,7 +14,7 @@ Téléphone: 06 XX XX XX XX
 Adresse e-mail:[Koumba.konte1@sorbonne-nouvelle.fr](mailto:Koumba.konte1@sorbonne-nouvelle.fr)
 
 ---
-
+<div id="main-container">
 
 ## Spécialisée dans...
 
@@ -48,4 +48,4 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 **Sorbonne Nouvelle**
 
 ---
-
+</div id="main-container">
