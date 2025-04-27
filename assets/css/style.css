@@ -17,10 +17,8 @@
   text-align: center; /* Centre le texte à l'intérieur */
 }
 
-h1, h2, h3 {
-  color: #white;
-  text-align: center; /* Les titres sont au centre */
-}
+h1, h2, h3, p, li {
+  margin-bottom: 20px; /* Espacement entre chaque élément */
 
 p, li, a {
   margin-bottom: 15px;
