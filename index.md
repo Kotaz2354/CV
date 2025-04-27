@@ -29,6 +29,7 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 ---
 
 [Croquis animation](assets/css/img)
+ <img class="animation" src="animation.png" alt="Image d'un sterlet ou esturgeon" width="400" height="200">
 
 ---
 
