@@ -8,6 +8,11 @@ body {
   min-height: 100vh;
   background-color:#e4b0c5  ; /* Couleur  */
   font-family: "Georgia", sans-serif;
+   border: 2px solid #0055a5;
+  border-radius: 10px;
+  text-align: center; /* Centre le texte à l'intérieur */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* ombre de la bordure*/
+
 }
 
 
