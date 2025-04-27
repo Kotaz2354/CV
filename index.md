@@ -26,7 +26,7 @@ Standing on the shoulders of giants
 Animation 2D, Celui qui m'inspire est [Richard William](https://fr.wikipedia.org/wiki/Richard_Williams_animateur)
 
 <div style="text-align: center;">
-  <img src="assets/img/photo.jpg" alt="Photo de profil" style="width: 200px; border-radius: 50%;">
+  <img src="assets/img/animation.jpg" alt="Croquis personnages animation 2d" style="width: 200px; border-radius: 50%;">
 </div>
 
 
