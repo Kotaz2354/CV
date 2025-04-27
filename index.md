@@ -1,6 +1,6 @@
 ---
 # Mon CV numérique
-layout : cv
+layout : <link rel="stylesheet" href="/assets/css/style.css">
 title : Koumba Konte CV
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
