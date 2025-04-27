@@ -2,11 +2,8 @@
   margin: 0;
   padding: 0;
   background-color: #pink;
-  font-family: "Vladimir Script", sans-serif;
+  font-family: "Georgia", sans-serif;
   min-height: 100%;
-}
-
-body {
   display: block; /* Pas flex ici pour pouvoir scroller normalement */
 }
 
@@ -24,15 +21,6 @@ h1, h2, h3 {
   color: #white;
   text-align: center; /* Les titres sont au centre */
   margin-bottom: 20px; /* ajoute un espace sous chaque titre */
-}
-
-a {
-  color: #black;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 img {
