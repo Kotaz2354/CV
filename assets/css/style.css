@@ -10,24 +10,4 @@ body {
   font-family: "Georgia", sans-serif;
 }
 
-.main-container {
-  background-color: #ffffff;
-  border: 2px solid #0055a5;
-  border-radius: 10px;
-  text-align: center; /* Centre le texte à l'intérieur */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* ombre de la bordure*/
-  width: 60%;
-  padding: 30px;
-  margin-top: 30px;
-}
 
-p::first-letter { font-size:xx-larger}
-  
-h1, h2, h3, p, li {
-  margin-bottom: 20px; /* Espacement entre chaque élément */
-}
-
-ul {
-  list-style-type: none; /* Pas de puces */
-  padding: 0;
-}
