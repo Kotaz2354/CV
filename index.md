@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="/assets/css/style.css">
-
 ---
 layout : cv
 title : Koumba Konte CV
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Koumba Konte
 Etudiante
 
