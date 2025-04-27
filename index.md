@@ -7,6 +7,8 @@ title : Koumba Konte CV
 # Koumba Konte
 Etudiante
 
+## Contact
+
 <div id ="Mon adresse mail">
 <a href="KonteKoumba@gmail.com">KonteKoumba@gmail.com</a>
   
@@ -29,4 +31,6 @@ Attentive,motivé
 
 `Aujourd'hui`
 __Sorbonne Nouvelle__
+
+
 
