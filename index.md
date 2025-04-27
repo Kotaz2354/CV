@@ -24,7 +24,10 @@ Adresse e-mail:[Koumba.konte1@sorbonne-nouvelle.fr](mailto:Koumba.konte1@sorbonn
 ## Spécialisée dans...
 
 
-Animation 2D  
+- Animation 2D  
+- Illustrations
+- Characters design
+
 Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard_Williams_animateur)
 
 
