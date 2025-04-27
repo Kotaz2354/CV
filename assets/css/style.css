@@ -1,3 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #pink;
+  font-family: "Georgia", sans-serif;
+  min-height: 100%;
+  
+  margin: 30px auto; /* Centre horizontalement */
+  display: block; /* Pour défiler */
+
+
 .main-container {
   background-color: #ffffff;
   border: 2px solid #0055a5;
@@ -7,7 +18,7 @@
   padding: 20px;
   text-align: center; /* Centrage du texte */
 }
-
+p::first-letter { xx-larger
 h1, h2, h3, p, li {
   margin-bottom: 20px; /* Espacement entre chaque élément */
 }
