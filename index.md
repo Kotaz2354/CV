@@ -21,8 +21,10 @@ title: "Koumba Konte CV"
 
 ##  Spécialisée dans...
 
+
 Animation 2D  
 Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard_Williams_animateur)
+
 
 ---
 
@@ -32,10 +34,12 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 
 ## Mes qualités
 
+
 - Attentive
 - Motivée
 
 ---
+
 
 ##  Éducation
 
@@ -44,5 +48,5 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 
 </div>
 
-
+---
 
