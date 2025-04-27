@@ -18,10 +18,7 @@ Adresse e-mail:[Koumba.konte1@sorbonne-nouvelle.fr](mailto:Koumba.konte1@sorbonn
 <div class="main-container">
 
 
-
----
-
-# Spécialisée dans...
+## Spécialisée dans...
 
 
 - Animation 2D  
@@ -37,7 +34,7 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 
 ---
 
-# Mes qualités
+## Mes qualités
 
 
 - Attentive
@@ -46,7 +43,7 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 ---
 
 
-# Éducation
+## Éducation
 
 `Aujourd'hui`  
 **Sorbonne Nouvelle**
