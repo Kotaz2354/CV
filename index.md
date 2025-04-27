@@ -10,7 +10,7 @@ Etudiante
 ## Contact
 
 <div id ="Mon adresse mail">
-<a href="KonteKoumba@gmail.com">KonteKoumba@gmail.com</a>
+<a href="Koumba.konte1@sorbonne-nouvelle.fr">Koumba.konte1@sorbonne-nouvelle.fr</a>
   
 </div>
 
