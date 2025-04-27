@@ -3,3 +3,7 @@ body {
   font-family: "vladimir script",sans-serif
   align-items: center
 }
+.main-container { 
+  background-color: #ffffff; /* Fond blanc pour le CV */
+  border: 2px solid #0055a5; /* Bordure bleue */
+  border-radius: 10px; /* Coins arrondis */
