@@ -19,6 +19,11 @@
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
+h1, h2, h3 {
+  color: #white;
+  text-align: center; /* Les titres sont au centre */
+  margin-bottom: 20px; /* ajoute un espace sous chaque titre */
+}
 
 img {
   display: block;
