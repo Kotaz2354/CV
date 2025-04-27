@@ -2,6 +2,7 @@
 layout: default
 title: "Koumba Konte CV"
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 
 # Koumba Konte
 **Étudiante**
@@ -13,6 +14,7 @@ title: "Koumba Konte CV"
 ---
 
 <div class="main-container">
+
 
 
 ---
