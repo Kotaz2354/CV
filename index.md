@@ -19,7 +19,7 @@ title: "Koumba Konte CV"
 
 ---
 
-##  Spécialisée dans...
+## Spécialisée dans...
 
 
 Animation 2D  
@@ -41,7 +41,7 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 ---
 
 
-##  Éducation
+## Éducation
 
 `Aujourd'hui`  
 **Sorbonne Nouvelle**
