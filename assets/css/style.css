@@ -4,7 +4,7 @@
   background-color: #pink;
   font-family: "Georgia", sans-serif;
   min-height: 100%;
-  width: 60%; /* Largeur du cadre */
+  
   margin: 30px auto; /* Centre horizontalement */
   display: block; /* Pour défiler */
 }
@@ -16,6 +16,7 @@
   background-color: #ffffff;
   border: 2px solid #0055a5;
   border-radius: 10px;
+ width: 60%; /* Largeur du cadre */
 }
 
 h1, h2, h3, p, li {
