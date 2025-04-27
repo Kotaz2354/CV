@@ -19,7 +19,7 @@ body {
   padding: 30px;
   margin-top: 30px;
   text-align: center; /* Centre le texte à l'intérieur */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optionnel : jolie ombre */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* ombre de la bordure*/
 }
 }
 p::first-letter { font-size:xx-larger}
