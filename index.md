@@ -4,7 +4,7 @@ layout : cv
 title : Koumba Konte CV
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
-<div class="main-container">
+
 
 # Koumba Konte
 Etudiante
@@ -15,8 +15,9 @@ Etudiante
 <a href="Koumba.konte1@sorbonne-nouvelle.fr">Koumba.konte1@sorbonne-nouvelle.fr</a>
   
 </div>
+<div class="main-container">
 
-## Currently
+  ## Currently
 
 Standing on the shoulders of giants
 
