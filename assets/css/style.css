@@ -1,12 +1,12 @@
-body {
+
+ body {
   margin: 0;
   padding: 0;
-  background-color: ##e4b0c5;
-  font-family: "Georgia", sans-serif;
-  min-height: 100%;
-  
-  margin: 30px auto; /* text au centre */
-  display: block; /* Pour défiler */
+  display: flex;
+  justify-content: center; /* Centrage horizontal */
+  font-family: Arial, sans-serif;
+  background-color: ##e4b0c5 /* Léger fond gris */
+}
 
 
 .main-container {
