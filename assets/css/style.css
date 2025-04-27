@@ -20,12 +20,6 @@
 }
 
 
-h1, h2, h3 {
-  color: #white;
-  text-align: center; /* Les titres sont au centre */
-  margin-bottom: 20px; /* ajoute un espace sous chaque titre */
-}
-
 img {
   display: block;
   margin: 20px auto;
