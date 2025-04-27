@@ -1,5 +1,18 @@
- h1, h2, h3 {
-  color: #white;
-  text-align: center; /* Les titres sont au centre */
-  margin-bottom: 20px; /* ajoute un espace sous chaque titre */
+.main-container {
+  background-color: #ffffff;
+  border: 2px solid #0055a5;
+  border-radius: 10px;
+  width: 60%;
+  margin: 30px auto; /* Centrage horizontal */
+  padding: 20px;
+  text-align: center; /* Centrage du texte */
+}
 
+h1, h2, h3, p, li {
+  margin-bottom: 20px; /* Espacement entre chaque élément */
+}
+
+ul {
+  list-style-type: none; /* Pas de puces */
+  padding: 0;
+}
