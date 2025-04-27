@@ -46,7 +46,7 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 `Aujourd'hui`  
 **Sorbonne Nouvelle**
 
-</div>
+</div class="main-container">
 
 ---
 
