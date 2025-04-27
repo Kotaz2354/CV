@@ -4,15 +4,16 @@
   background-color: #pink;
   font-family: "Georgia", sans-serif;
   min-height: 100%;
-  display: block; /* Pour défiler */
-}
-
-.main-container { 
   background-color: #ffffff;
   border: 2px solid #0055a5;
   border-radius: 10px;
   width: 60%; /* Largeur du cadre */
   margin: 30px auto; /* Centre horizontalement */
+  display: block; /* Pour défiler */
+}
+
+.main-container { 
+  
   padding: 20px; /* Un peu d'espace à l'intérieur */
   text-align: center; /* Centre le texte à l'intérieur */
 }
