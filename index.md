@@ -28,7 +28,7 @@ Celui qui m'inspire est [Richard Williams](https://fr.wikipedia.org/wiki/Richard
 
 ---
 
-![Croquis animation](assets/css/img/animation.jpg)
+[Croquis animation](assets/css/img/animation.jpg)
 
 ---
 
