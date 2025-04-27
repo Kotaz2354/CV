@@ -9,7 +9,7 @@ title: "Koumba Konte CV"
 
 ## Contact
 
-[Koumba.konte1@sorbonne-nouvelle.fr](mailto:Koumba.konte1@sorbonne-nouvelle.fr)
+[Koumba.konte1@sorbonne-nouvelle.fr](Koumba.konte1@sorbonne-nouvelle.fr)
 
 ---
 
