@@ -8,14 +8,13 @@
 }
 
 .main-container { 
-  background-color: #white;
+  background-color: #ffffff;
   border: 2px solid #0055a5;
   border-radius: 10px;
-  background-color: #ffffff;
-
-  padding: 30px;
-  width: 60%;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 60%; /* Largeur du cadre */
+  margin: 30px auto; /* Centre horizontalement */
+  padding: 20px; /* Un peu d'espace à l'intérieur */
+  text-align: center; /* Centre le texte à l'intérieur */
 }
 
 h1, h2, h3 {
