@@ -4,9 +4,6 @@
   background-color: #pink;
   font-family: "Georgia", sans-serif;
   min-height: 100%;
-  background-color: #ffffff;
-  border: 2px solid #0055a5;
-  border-radius: 10px;
   width: 60%; /* Largeur du cadre */
   margin: 30px auto; /* Centre horizontalement */
   display: block; /* Pour défiler */
@@ -16,6 +13,9 @@
   
   padding: 20px; /* Un peu d'espace à l'intérieur */
   text-align: center; /* Centre le texte à l'intérieur */
+  background-color: #ffffff;
+  border: 2px solid #0055a5;
+  border-radius: 10px;
 }
 
 h1, h2, h3, p, li {
@@ -24,10 +24,8 @@ h1, h2, h3, p, li {
   max-width: 800px;
   margin: 40px auto; /* Centre horizontalement ET donne de l'espace en haut */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
-
-p, li, a {
-  margin-bottom: 15px;
-  line-height: 1.6; /* hauteur entre les lignes */
+ line-height: 1.6; /* hauteur entre les lignes */ }
+ 
 img {
   display: block;
   margin: 20px auto;
