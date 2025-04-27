@@ -1,7 +1,6 @@
 body {
-  background-colour: #vert
-  font-family: "vladimir script",sans-serif
-  align-items: center
+  background-color: green; /* Couleur corrigée */
+  font-family: "Vladimir Script", sans-serif;
   margin: 0;
   padding: 0;
   display: flex;
@@ -9,16 +8,22 @@ body {
   align-items: center;
   height: 100vh; /* Hauteur entière de l'écran */
 }
-}
+
 .main-container { 
   background-color: #ffffff; /* Fond blanc pour le CV */
   border: 2px solid #0055a5; /* Bordure bleue */
   border-radius: 10px; /* Coins arrondis */
+  padding: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre pour faire joli */
+  width: 70%;
+  max-width: 800px;
 }
+
 h1, h2 {
   color: #0055a5;
   text-align: center; /* Titre centré */
 }
+
 a {
   color: #ff6600;
   text-decoration: none;
