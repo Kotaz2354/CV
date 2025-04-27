@@ -4,6 +4,7 @@ layout : cv
 title : Koumba Konte CV
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
+<div class="main-container">
 
 # Koumba Konte
 Etudiante
