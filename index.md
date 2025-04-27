@@ -23,7 +23,7 @@ Animation 2D, Celui qui m'inspire est [Richard William](https://fr.wikipedia.org
 Attentive,motivé
 
 
-## Education
+## Education 
 
 `Aujourd'hui`
 __Sorbonne Nouvelle__
