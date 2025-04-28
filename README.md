@@ -12,7 +12,7 @@ Des lignes pour séparer les critères, des phrases en *italique* et des phrases
 *Utilisation du github pour créer 5 fichiers afin d'en faire une page en ligne.*
 
 CV édité en markdown afin d'écrire toutes les informations dans le fichier index.md et README.md (le fichier que vous lisez à l'instant même). L'utilisation du CSS et HTML dans le fichier CSS  est aussi présent afin de personnaliser la page avec l'aide de git hub pages.
-Un fichier licence à été crée.
+Un fichier licence à été recopié.
 **Pour être plus spécifique**
 Le fichier CSS m'a permit de décorer la page avec un fond de couleur et de régler ma structure de mise en page ( c'est comme ça que nous avons un cv centré au milieu de la page )
 Le fichier index.md lui m'a permit de coder la base c'est à dire les informations.
