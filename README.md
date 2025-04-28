@@ -6,7 +6,7 @@ Un CV centré avec les informations les un après les autres. Nous avons d'abord
 
 
 # Personnalisation :
-Des lignes pour séparer les critères, des phrases en *italique* et des phrases/mots en **gras**. Une couleur de fond rose avec la rédaction de couleur claire et une image. Création de liens externes pour nous envoyer à d'autres pages pour des renseignements. Une bordure bleu fine autour de la page.
+Des lignes pour séparer les critères, des phrases en *italique* et des phrases/mots en **gras**. Une couleur de fond rose avec la police de texte "georgia" et une image. Création de liens externes pour nous envoyer à d'autres pages pour des renseignements. Une bordure bleu fine autour de la page.
 
 # Outils
 *Utilisation du github pour créer 5 fichiers afin d'en faire une page en ligne.*
